@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "本当だよ",
+  "base_artist": "ナツノセ",
+  "createdAt": "2025-12-10T05:21:51.784295Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "本当だよ",
+      "artist": "ナツノセ",
+      "has_synced": true,
+      "path": "select/01_本当だよ_ナツノセ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "本当だよ - Hontoudayo",
+      "artist": "ナツノセ",
+      "has_synced": true,
+      "path": "select/02_本当だよ_-_Hontoudayo_ナツノセ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本当だよ",
+      "artist": "ナツノセ",
+      "has_synced": false,
+      "path": "select/pl_01_本当だよ_ナツノセ.txt"
+    }
+  ]
+}
